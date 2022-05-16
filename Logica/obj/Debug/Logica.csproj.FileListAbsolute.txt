@@ -25,3 +25,12 @@ E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\bin\Debug\Persist
 E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\obj\Debug\Logica.dll
 E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\obj\Debug\Logica.pdb
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\bin\Debug\Logica.dll
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\bin\Debug\Logica.pdb
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\bin\Debug\Persistencia.dll
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\obj\Debug\Logica.dll
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Logica\obj\Debug\Logica.pdb

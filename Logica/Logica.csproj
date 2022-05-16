@@ -42,7 +42,9 @@
   <ItemGroup>
     <Compile Include="FabricaLogica.cs" />
     <Compile Include="ILogicaArticulo.cs" />
+    <Compile Include="ILogicaFactura.cs" />
     <Compile Include="LogicaArticulos.cs" />
+    <Compile Include="LogicaFacturas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
