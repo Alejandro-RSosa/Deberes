@@ -1,0 +1,27 @@
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\bin\Debug\Logica.dll
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\bin\Debug\Logica.pdb
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\bin\Debug\EntidadesCompartidas.dll
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\bin\Debug\Persistencia.dll
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\bin\Debug\EntidadesCompartidas.pdb
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\bin\Debug\Persistencia.pdb
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\obj\Debug\Logica.dll
+E:\Bios2do\01B - CasoEstudioFabricaEsqueleto\Logica\obj\Debug\Logica.pdb
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\bin\Debug\Logica.dll
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\bin\Debug\Logica.pdb
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\bin\Debug\EntidadesCompartidas.dll
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\bin\Debug\Persistencia.dll
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\bin\Debug\EntidadesCompartidas.pdb
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\bin\Debug\Persistencia.pdb
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\obj\Debug\Logica.dll
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton\Logica\obj\Debug\Logica.pdb
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\bin\Debug\Logica.dll
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\bin\Debug\Logica.pdb
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\bin\Debug\EntidadesCompartidas.dll
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\bin\Debug\Persistencia.dll
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\bin\Debug\EntidadesCompartidas.pdb
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\bin\Debug\Persistencia.pdb
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\obj\Debug\Logica.dll
+E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Logica\obj\Debug\Logica.pdb
