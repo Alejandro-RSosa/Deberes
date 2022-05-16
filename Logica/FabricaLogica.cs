@@ -15,5 +15,10 @@ namespace Logica
         {
             return (LogicaArticulos.GetInstancia());
         }
+
+        public static ILogicaFactura getLogicaFactura()
+        {
+            return (LogicaFacturas.GetInstancia());
+        }
     }
 }
