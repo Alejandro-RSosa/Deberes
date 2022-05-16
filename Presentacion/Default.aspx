@@ -28,6 +28,14 @@
         <asp:LinkButton ID="lbtnListar" runat="server" 
             PostBackUrl="~/ListarArticulos.aspx">Listar Articulos</asp:LinkButton>
     </p>
+        <p class="style1">
+        <asp:LinkButton ID="lbtnListar0" runat="server" 
+            PostBackUrl="~/AltaFactura.aspx">Alta Factura</asp:LinkButton>
+    </p>
+        <p class="style1">
+        <asp:LinkButton ID="lbtnListar1" runat="server" 
+            PostBackUrl="~/ListadoFacturas.aspx">Listado Facturas</asp:LinkButton>
+    </p>
     <p>
         &nbsp;</p>
     <p>

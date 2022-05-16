@@ -145,7 +145,7 @@ namespace Persistencia
             decimal _precio;
             Articulo a = null;
             SqlConnection oConexion = new SqlConnection(Conexion.Cnn);
-            SqlCommand oComando = new SqlCommand("Exec BuscoArticulo " + pCodigo, oConexion);
+            SqlCommand oComando = new SqlCommand("Exec BuscoArticuloActivos " + pCodigo, oConexion);
 
             SqlDataReader oReader;
 

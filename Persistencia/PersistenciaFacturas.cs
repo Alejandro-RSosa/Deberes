@@ -29,7 +29,7 @@ namespace Persistencia
             oComando.CommandType = CommandType.StoredProcedure;
 
             SqlParameter _cantidad = new SqlParameter("@cant", F.Cantidad);
-            SqlParameter _codArt = new SqlParameter("@codA", F.ArticuloF.Codigo);            
+            SqlParameter _codArt = new SqlParameter("@codArt", F.ArticuloF.Codigo);            
             SqlParameter _Retorno = new SqlParameter("@Retorno", SqlDbType.Int);
             _Retorno.Direction = ParameterDirection.ReturnValue;
 

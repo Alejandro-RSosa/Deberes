@@ -61,3 +61,10 @@ E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Persistencia\bin\Debug\E
 E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
 E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Persistencia\obj\Debug\Persistencia.dll
 E:\Bios2do\01B - CasoEstudioFabricaConSingleton Deberes\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Trico\Desktop\Deberes\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Trico\Desktop\Deberes\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Trico\Desktop\Deberes\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Trico\Desktop\Deberes\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Trico\Desktop\Deberes\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Trico\Desktop\Deberes\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Trico\Desktop\Deberes\Persistencia\obj\Debug\Persistencia.pdb
