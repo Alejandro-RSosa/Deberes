@@ -43,3 +43,12 @@ C:\Users\Trico\Desktop\Deberes\Logica\bin\Debug\Persistencia.pdb
 C:\Users\Trico\Desktop\Deberes\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 C:\Users\Trico\Desktop\Deberes\Logica\obj\Debug\Logica.dll
 C:\Users\Trico\Desktop\Deberes\Logica\obj\Debug\Logica.pdb
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\bin\Debug\Logica.dll
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\bin\Debug\Logica.pdb
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\bin\Debug\Persistencia.dll
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\obj\Debug\Logica.dll
+C:\Users\Gary\Documents\BIOS_Segundo\git\tarea\Deberes\Logica\obj\Debug\Logica.pdb
